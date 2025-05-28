@@ -48,5 +48,20 @@ public class Counter {
 	public int getCount() {
 		return count;
 	}
+
+	public boolean isCountEven(){
+		return count%2 == 0;
+	}
+	
+	public int getCount() {
+		return count;
+	}
+	public boolean isCountEven(){
+		return count%2 == 0;
+	}
+	
+	public int getCount() {
+		return count;
+	}
 	
 }
